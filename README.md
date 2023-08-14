@@ -6,9 +6,9 @@
 https://64bbc0fcb5c9525bc2763292--super-hotteok-11d489.netlify.app/
 
 ## Start
-00 Connet to your Web3 Wallet
-01 Create a Charater
-02 Create a Batlle or join a already existing battlesBattle
+00. Connet to your Web3 Wallet
+01. Create a Charater
+02. Create a Batlle or join a already existing battlesBattle
 
 ## GameInfo
 00  Card with the same defense and attack point will cancel each other out.
